@@ -1,0 +1,19 @@
+[app/ui]
+version = 9.2.0
+modtime = 1726541859.429347000
+
+[app/launcher]
+version = 9.2.0
+modtime = 1726541859.430208000
+
+[indexes/softmania_github_monitoring_idx]
+owner = admin
+version = 9.2.0
+modtime = 1726541970.819236000
+
+[inputs/http%3A%2F%2Fgithub_webhook]
+access = read : [ admin ], write : [ admin ]
+export = none
+owner = admin
+version = 9.2.0
+modtime = 1726542902.162911000
