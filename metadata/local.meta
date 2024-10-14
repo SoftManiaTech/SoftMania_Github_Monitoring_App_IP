@@ -1,10 +1,10 @@
 [app/ui]
 version = 9.2.0
-modtime = 1726541859.429347000
+modtime = 1728881782.430949000
 
 [app/launcher]
 version = 9.2.0
-modtime = 1726541859.430208000
+modtime = 1728881782.432336000
 
 [indexes/softmania_github_monitoring_idx]
 owner = admin
@@ -17,3 +17,14 @@ export = none
 owner = admin
 version = 9.2.0
 modtime = 1726542902.162911000
+
+[app/package/check_for_updates]
+version = 9.2.0
+modtime = 1728881782.432843000
+
+[views/softmania_github_monitoring_dashboard]
+access = read : [ * ]
+export = system
+owner = admin
+version = 9.2.0
+modtime = 1728885625.976730000
